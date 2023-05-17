@@ -1,10 +1,9 @@
 # Elnop
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-perrotin-4b46601b4/) | 
-[HackerRank](https://www.hackerrank.com/lperroti) | 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-perrotin-4b46601b4/) | 
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lperroti) | 
 [CodinGame](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515) | 
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Elnop) | 
-[Intra 42](https://profile.intra.42.fr/users/lperroti) | 
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Elnop)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elnop/Elnop/output/github-contribution-grid-snake-dark.svg" />
@@ -46,11 +45,13 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Elnop&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
+[![](https://badge42.vercel.app/api/v2/cldy6bu0000060fmk7xt0ylzk/stats?cursusId=21&coalitionId=46)](https://profile.intra.42.fr/users/lperroti)
 
-[![](https://badge42.vercel.app/api/v2/cldy6bu0000060fmk7xt0ylzk/stats?cursusId=21&coalitionId=46)](https://github.com/JaeSeoKim/badge42)
+![Stats](https://github-readme-stats.vercel.app/api?username=Elnop&show_icons=true&theme=tokyonight&hide=issues&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elnop)
