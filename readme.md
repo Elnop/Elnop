@@ -1,5 +1,11 @@
 # Elnop
 
+[Linkedin](https://www.linkedin.com/in/leon-perrotin-4b46601b4/)
+[HackerRank](https://www.hackerrank.com/lperroti)
+[CodinGame](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
+[CodePen](https://codepen.io/Elnop)
+[Intra 42](https://profile.intra.42.fr/users/lperroti)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elnop/Elnop/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elnop/Elnop/output/github-contribution-grid-snake.svg" />
