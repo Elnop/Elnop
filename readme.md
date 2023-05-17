@@ -1,6 +1,6 @@
 # Elnop
 
-[[](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-perrotin-4b46601b4/) | 
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-perrotin-4b46601b4/) | 
 [HackerRank](https://www.hackerrank.com/lperroti) | 
 [CodinGame](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515) | 
 [CodePen](https://codepen.io/Elnop) | 
