@@ -1,5 +1,7 @@
 # Elnop
 
+[![](https://badge42.vercel.app/api/v2/cldy6bu0000060fmk7xt0ylzk/stats?cursusId=21&coalitionId=46)](https://profile.intra.42.fr/users/lperroti)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-perrotin-4b46601b4/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lperroti)
 [![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black)](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
@@ -21,8 +23,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-[![](https://badge42.vercel.app/api/v2/cldy6bu0000060fmk7xt0ylzk/stats?cursusId=21&coalitionId=46)](https://profile.intra.42.fr/users/lperroti)
 
 ## Frameworks, Platforms and Libraries
 
