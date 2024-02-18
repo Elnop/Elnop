@@ -16,7 +16,7 @@
 
 [![42 Intra](https://badge.mediaplus.ma/black/lperroti?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/)
 
-<object type="image/svg+xml" data="https://badge.mediaplus.ma/black/lperroti?1337Badge=off&UM6P=off></object>
+<object type="image/svg+xml" data="https://badge.mediaplus.ma/black/lperroti?1337Badge=off&UM6P=off"></object>
 
 ## Languages
 
