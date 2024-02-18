@@ -13,12 +13,14 @@
 [![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black)](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Elnop)
 
-[![](https://badge42.vercel.app/api/v2/cldy6bu0000060fmk7xt0ylzk/stats?cursusId=21&coalitionId=46)](https://profile.intra.42.fr/users/lperroti)
+
+[![lperroti's 42 stats](https://badge.mediaplus.ma/black/lperroti?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/)
+
 
 ## Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/cpp-%2300599C.svg?style=for-the-badge&logo=cpp&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,4 +56,3 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-[![lperroti's 42 stats](https://badge.mediaplus.ma/black/lperroti?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/)
