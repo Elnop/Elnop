@@ -16,8 +16,6 @@
 
 [![42 Intra](https://badge.mediaplus.ma/black/lperroti?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/)
 
-<object data="https://badge.mediaplus.ma/black/lperroti?1337Badge=off&UM6P=off" type="image/svg+xml" > can't load SVG </object>
-
 ## Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
