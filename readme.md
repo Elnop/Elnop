@@ -13,6 +13,7 @@
 [![CodinGame](https://img.shields.io/badge/CodinGame-F2BB13.svg?style=for-the-badge&logo=CodinGame&logoColor=black)](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Elnop)
 
+[![](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
 
 [![42 Intra](https://badge.mediaplus.ma/black/lperroti?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/)
 
