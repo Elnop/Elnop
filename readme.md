@@ -12,7 +12,7 @@
   [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lperroti)
   [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Elnop)
 
-[![CodinCard](codincard.vercel.app/svg_card/?w=1000&public_handle=961697f63a0daf0d4649a6f1c368acf81098515&bg_img=true&badges=)](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
+[![CodinCard](https://codincard.vercel.app/svg_card/?w=1000&public_handle=961697f63a0daf0d4649a6f1c368acf81098515&bg_img=true&badges=)](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
 
 ## Languages
 
