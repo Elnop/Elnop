@@ -32,8 +32,8 @@ Développeur Fullstack freelance · JS/TS · React · Node.js · Passionné par 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnop&layout=compact&theme=tokyonight&hide_border=true" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elnop&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
