@@ -22,10 +22,10 @@
 
 ## 👤 About me
 
-Développeur Fullstack généraliste, passionné par le code depuis 2016.
-À l'aise aussi bien côté interface (React, Next.js, animations) que côté serveur (Node.js, API REST, architectures backend).
+Développeur Fullstack Web passionné par le code depuis 2016.
+Je couvre l'ensemble du cycle produit : architecture, design produit & UI/UX, développement frontend et backend, DevOps et sécurité.
 
-J'aime construire des produits complets, de la base de données à l'UI, avec une attention particulière à la qualité du code et à l'expérience utilisateur.
+J'aime construire des produits complets et robustes, avec une attention constante à la qualité du code et à l'expérience utilisateur.
 
 🟢 **Disponible en freelance** — full télétravail ou Paris
 
