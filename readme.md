@@ -1,26 +1,24 @@
-# Elnop
+<h1 align="center">Elnop</h1>
 
-Développeur Fullstack freelance · JS/TS · React · Node.js · Passionné par les interfaces et les architectures robustes.
+<p align="center">Développeur Fullstack freelance · JS/TS · React · Node.js · Passionné par les interfaces et les architectures robustes.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/leon-perrotin-4b46601b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/lperroti"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  &nbsp;&nbsp;
+  <a href="https://codepen.io/Elnop"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515"><img src="https://codincard.vercel.app/svg_card/?w=1000&public_handle=961697f63a0daf0d4649a6f1c368acf81098515&bg_img=true&badges=CODING_SPEED%2CAI%2CALGORITHMS%2CCOLLABORATION%2C38823044854472%2C1925032048027%2C110379867599957%2C1923957894227%2C1925113228778%2C1925189810047" /></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elnop/Elnop/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elnop/Elnop/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Elnop/Elnop/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-## 🌐 Réseaux
-
-📎 Retrouve-moi sur :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-perrotin-4b46601b4/)
-&nbsp;&nbsp;
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lperroti)
-&nbsp;&nbsp;
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Elnop)
-
-[![CodinCard](https://codincard.vercel.app/svg_card/?w=1000&public_handle=961697f63a0daf0d4649a6f1c368acf81098515&bg_img=true&badges=CODING_SPEED%2CAI%2CALGORITHMS%2CCOLLABORATION%2C38823044854472%2C1925032048027%2C110379867599957%2C1923957894227%2C1925113228778%2C1925189810047)](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
 
 ---
 
