@@ -12,9 +12,9 @@ Développeur Fullstack freelance · JS/TS · React · Node.js · Passionné par 
 
 ## 🌐 Réseaux
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-perrotin-4b46601b4/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lperroti)
-[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Elnop)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visiter%20%E2%86%92-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-perrotin-4b46601b4/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Visiter%20%E2%86%92-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lperroti)
+[![CodePen](https://img.shields.io/badge/CodePen-Visiter%20%E2%86%92-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Elnop)
 
 [![CodinCard](https://codincard.vercel.app/svg_card/?w=1000&public_handle=961697f63a0daf0d4649a6f1c368acf81098515&bg_img=true&badges=CODING_SPEED%2CAI%2CALGORITHMS%2CCOLLABORATION%2C38823044854472%2C1925032048027%2C110379867599957%2C1923957894227%2C1925113228778%2C1925189810047)](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
 
@@ -22,7 +22,7 @@ Développeur Fullstack freelance · JS/TS · React · Node.js · Passionné par 
 
 ## 💼 Freelance
 
-[![Malt](https://img.shields.io/badge/Malt-FF5C57?style=for-the-badge&logo=malt&logoColor=white)](https://fr.malt.be/profile/leonperrotin1)
+[![Malt](https://img.shields.io/badge/Malt-Visiter%20%E2%86%92-FF5C57?style=for-the-badge&logo=malt&logoColor=white)](https://fr.malt.be/profile/leonperrotin1)
 
 ---
 
