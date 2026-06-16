@@ -1,6 +1,6 @@
 # Elnop
 
-Développeur Fullstack freelance · JS/TS · React · Node.js · Passionné par les interfaces et les architectures backend robustes.
+Développeur Fullstack freelance · JS/TS · React · Node.js · Passionné par les interfaces et les architectures robustes.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elnop/Elnop/output/github-contribution-grid-snake-dark.svg" />
