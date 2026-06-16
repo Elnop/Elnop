@@ -6,8 +6,6 @@
 
 <h1 align="center">Elnop</h1>
 
-<p align="center">Développeur Fullstack freelance · JS/TS · React · Node.js · Passionné par les interfaces et les architectures robustes.</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/leon-perrotin-4b46601b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   &nbsp;&nbsp;
@@ -19,6 +17,17 @@
 <p align="center">
   <a href="https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515"><img src="https://codincard.vercel.app/svg_card/?w=1000&public_handle=961697f63a0daf0d4649a6f1c368acf81098515&bg_img=true&badges=CODING_SPEED%2CAI%2CALGORITHMS%2CCOLLABORATION%2C38823044854472%2C1925032048027%2C110379867599957%2C1923957894227%2C1925113228778%2C1925189810047" /></a>
 </p>
+
+---
+
+## 👤 About me
+
+Développeur Fullstack généraliste, passionné par le code depuis 2016.
+À l'aise aussi bien côté interface (React, Next.js, animations) que côté serveur (Node.js, API REST, architectures backend).
+
+J'aime construire des produits complets, de la base de données à l'UI, avec une attention particulière à la qualité du code et à l'expérience utilisateur.
+
+🟢 **Disponible en freelance** — full télétravail ou Paris
 
 ---
 
