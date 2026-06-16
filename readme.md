@@ -14,6 +14,8 @@
 
 [![CodinCard](https://codincard.vercel.app/svg_card/?w=1000&public_handle=961697f63a0daf0d4649a6f1c368acf81098515&bg_img=true&badges=CODING_SPEED%2CAI%2CALGORITHMS%2CCOLLABORATION%2C38823044854472%2C1925032048027%2C110379867599957%2C1923957894227%2C1925113228778%2C1925189810047)](https://www.codingame.com/profile/961697f63a0daf0d4649a6f1c368acf81098515)
 
+recommandez moi sur [![Malt](https://dam.malt.com/navbar/logos/malt-logo-red.svg?vh=9690b2?w=125&h=35)](https://fr.malt.be/profile/leonperrotin1)
+
 ## Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
